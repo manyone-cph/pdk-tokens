@@ -1636,7 +1636,7 @@
       },
       "shadow-active-blue": {
         "value": {
-          "color": "$color.base.blue.300",
+          "color": "$color.base.blue.200",
           "spread": "3",
           "blur": "0",
           "y": "0",
