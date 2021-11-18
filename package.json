@@ -1,0 +1,12 @@
+{
+  "name": "pdk-tokens",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "clean": "style-dictionary clean",
+    "build": "node ./scripts/transform-design-tokens.js && npm run clean && style-dictionary build"
+  },
+  "dependencies": {
+    "style-dictionary": "^3.0.3"
+  }
+}
