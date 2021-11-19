@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 18 Nov 2021 12:45:18 GMT
+ * Generated on Fri, 19 Nov 2021 08:03:56 GMT
  */
 
 :root {
@@ -423,7 +423,7 @@
   --font-weight-regular: Regular;
   --font-weight-medium: Medium;
   --font-weight-bold: Bold;
-  --spacing-mobile-0: 0px;
+  --spacing-mobile-0: 10px;
   --spacing-mobile-1: 2px * 1;
   --spacing-mobile-2: 2px * 2;
   --spacing-mobile-3: 2px * 3;
@@ -570,7 +570,7 @@
   --border-lg: 4px;
   --border-radius-sm: 4px;
   --border-radius-md: 6px;
-  --border-radius-button-large: 50%;
+  --border-radius-button-large: 50px;
   --opacity-button-disabled: 0.5;
   --opacity-input-disabled: 0.5;
   --input-shadow-active-color: #fce8eb;
@@ -587,5 +587,5 @@
   --input-shadow-active-blue-spread: 3px;
   --input-shadow-active-blue-blur: 0px;
   --input-shadow-active-blue-y: 0px;
-  --input-shadow-active-blue-x: 0px;
+  --input-shadow-active-blue-x: 1px;
 }
