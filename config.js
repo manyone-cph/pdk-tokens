@@ -89,13 +89,13 @@ StyleDictionary.registerTransform({
   transformer: function (prop) {
     let output;
     if (prop.value == "Light") {
-      output = "var(--fw-light)";
+      output = "100";
     } else if (prop.value == "Regular") {
-      output = "var(--fw-regular)";
+      output = "200";
     } else if (prop.value == "Medium") {
-      output = "var(--fw-medium)";
+      output = "400";
     } else {
-      output = "var(--fw-bold)";
+      output = "bold";
     }
     return output;
   }
