@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 03 Dec 2021 07:07:45 GMT
+ * Generated on Mon, 06 Dec 2021 09:47:20 GMT
  */
 
 :root {
@@ -659,7 +659,7 @@
   --spacing-button-small-gab: 6px;
   --spacing-emneside-desktop-header-top: 328px;
   --spacing-emneside-mobil-header-top: 200px;
-  --size-breakpoint-mobile: 576px;
+  --size-breakpoint-mobile: 320px;
   --size-breakpoint-mobile-portrait: 375px;
   --size-breakpoint-tablet-portait: 768px;
   --size-breakpoint-tablet: 990px;
