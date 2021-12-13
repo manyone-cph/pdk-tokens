@@ -85,6 +85,7 @@ const generateJson = (obj, key) => {
 
       // Type can conflict if more than one value
       let output = JSON.stringify(temp[obj], null, '').split(',"type":"typography"').join('');
+      output = JSON.stringify(temp[obj], null, '').split(',"type":"boxShadow"').join('');
 
 
       // Write output file
